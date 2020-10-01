@@ -24,3 +24,4 @@ The JSON files used by buildsite.py have some special names which are used by th
 ``_ind``: A number specifying where your language should be placed relative to other languages. Example: *1*  
 ``_comment``: A comment about the language file. Optional.  
 ``_author``: The creator(s) of the file.
+##hope you liked it!
